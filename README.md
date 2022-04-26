@@ -1,2 +1,2 @@
 # perspective-playground
-Select and copy your own transform perspectives
+O'z transform xususitangizni tanlang va foydalaning 
